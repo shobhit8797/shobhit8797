@@ -1,8 +1,8 @@
 <a href="https://icons8.com/icon/n9d0Hm43JCPK/link"></a>
 
 <div align="center">
-<h1>Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="50px">, I'm Shobhit Goyal aka <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
-<!-- [<a href="https://www.shobhit.tech">shobhit</a>]   -->
+<h1>Hi there <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50px" height="50px">, I'm Shobhit Goyal <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px" height="50px"></h1>
+<!-- aka [<a href="https://www.shobhit.tech">shobhit</a>]   -->
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Robot-Bold&size=30&color=4EDC4E&center=true&vCenter=true&width=900&height=110&lines=Tech+Enthusiast;Python+Lover+❤️;)](https://git.io/typing-svg)
 
