@@ -16,11 +16,11 @@
 ## 🙋‍♂️ About Me
 
 <center>
-<h3>Co-Founder Bookvala || Web Master IEEE Society, CUIET || Entrepreneur ❤ </h3>
+<h3> Web Master IEEE Society, CUIET || Entrepreneur ❤ </h3>
 </center>
 <br>
 
-- 🔭 I’m currently working on ...**Bookvala website and backend development**
+- 🔭 I’m currently working on ...** **
 - 🌱 I’m currently learning ...**Machine Learning, Backend Devlopment and DevOps**
 <!-- - 💬 Ask me about ...**Python, ReactJs** -->
 - 👨‍💻 My Skills ...**Python, HTML, CSS, Javascript, ReactJs , C++, Django.**
@@ -74,7 +74,6 @@
 
 ## 💫 Organizations I am Working in..
 
-- <img src="./bookvala.png" width="60" height="60" alt="bookvala"> IEEE
 - <img src="./ieee.png" width="40" height="40" alt="ieee"> IEEE Society, CIET - Webmaster
 
 ## <img src="https://img.icons8.com/fluency/48/000000/link.png" width="40" height="40"/> Connect with me
