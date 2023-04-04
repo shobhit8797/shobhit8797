@@ -8,7 +8,7 @@
 
 </div>
 
-![profile-views](https://komarev.com/ghpvc/?username=shobhitgoyal2002&color=blueviolet)
+![profile-views](https://komarev.com/ghpvc/?username=shobhit8797&color=blueviolet)
 ![age](https://img.shields.io/badge/age-20-blue)
 ![focus](https://img.shields.io/badge/focus-ML/DataAnalysis-brightgreen)
 <!-- ![living](https://img.shields.io/badge/living-Dhanbad-3c9) -->
@@ -24,9 +24,7 @@
 - 🌱 I’m currently learning ...**Machine Learning, Backend Devlopment and DevOps**
 <!-- - 💬 Ask me about ...**Python, ReactJs** -->
 - 👨‍💻 My Skills ...**Python, HTML, CSS, Javascript, ReactJs , C++, Django.**
-- 📫 How to reach me: ... **https://www.linkedin.com/in/shobhit-goyal-014b131b8/**
-<!-- - ✨ Some inspirational persons in my life: ... **Nikola Tesla⚡ Bill Gates and Jeff Bezos** -->
-<!-- - ⚡ My thought: ... **Eat🍴.. &nbsp;&nbsp;Sleep🛌.. &nbsp;&nbsp;Code👨‍💻.. &nbsp;&nbsp;Repeat🔁.** -->
+- 📫 How to reach me: ... **https://www.linkedin.com/in/shobhit8797/**
 
 <br>
 <br>
@@ -62,13 +60,13 @@
 ## 📈 **My Github Stats**
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhitgoyal2002&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Shobhit's :: Profile Stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhitgoyal2002&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Shobhit :: Top Langs" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=shobhit8797&theme=blue-green&show_icons=true&hide_border=true&count_private=true" alt="Shobhit's :: Profile Stats" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shobhit8797&langs_count=8&theme=tokyonight&layout=compact&hide_border=true" alt="Shobhit :: Top Langs" />
 </p>
 
 <div align="center">
   
-[![Shobhit Goyal :: Streak](http://github-readme-streak-stats.herokuapp.com?user=shobhitgoyal2002&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=shobhitgoyal2002&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
+[![Shobhit Goyal :: Streak](http://github-readme-streak-stats.herokuapp.com?user=shobhit8797&theme=merko&date_format=M%20j%5B%2C%20Y%5D)](http://github-readme-streak-stats.herokuapp.com?user=shobhit8797&theme=merko&date_format=M%20j%5B%2C%20Y%5D)
   
 </div>
 
@@ -86,6 +84,6 @@
 <!-- <a href="https://twitter.com/shobhit8797" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>  -->
 <a href="https://www.linkedin.com/in/shobhit-goyal-014b131b8/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 <br>
-<a href="https://github.com/shobhitgoyal2002" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
+<a href="https://github.com/shobhit8797" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> 
 <!-- <a href="https://leetcode.com/shobhitgoyal/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"></a> -->
 </p>
